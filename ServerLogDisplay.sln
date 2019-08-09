@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLogDisplay", "ServerLogDisplay\ServerLogDisplay.csproj", "{437092EA-27AB-4A44-8698-6C20E80A328A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437092EA-27AB-4A44-8698-6C20E80A328A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437092EA-27AB-4A44-8698-6C20E80A328A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437092EA-27AB-4A44-8698-6C20E80A328A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437092EA-27AB-4A44-8698-6C20E80A328A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F648C4-5AFC-4DE5-86BB-0E4FC583124C}
+	EndGlobalSection
+EndGlobal
